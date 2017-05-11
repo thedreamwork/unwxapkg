@@ -1,0 +1,1 @@
+usage: unwxapkg filename destination (unpack wxapkg file at destination path)

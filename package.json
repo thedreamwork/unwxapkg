@@ -1,0 +1,17 @@
+{
+  "name": "unwxapkg",
+  "version": "0.0.3",
+  "description": "unpack wxapkg",
+  "author": "the",
+  "main": "index.js",
+  "keywords": [
+    "weapp",
+    "wxapkg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thedreamwork/unwxapkg.git"
+  },
+  "bin": {"unwxapkg":"bin/cmd.js"},
+  "license": "MIT"
+}
